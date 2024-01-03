@@ -1,0 +1,79 @@
+.text-green {
+  color: #4caf50;
+}
+
+.text-blue {
+  color: #2196f3 !important;
+}
+
+.text-black {
+  color: #ffffff !important;
+  font-size: 24px;
+  font-family: "Courier New", monospace;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-black-45 {
+  color: rgba(255, 255, 255, 0.45);
+}
+
+.text-black-70 {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.bg-black-02 {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+.word-break-all{
+  color: #ffffff;
+  font-size: 23px;
+  padding-left: 20px;
+
+}
+.dashboard{
+  color: rgb(0, 0, 0);
+}
+.Create-room{
+  color: rgb(0, 0, 0);
+}
+.dashboard-btn {
+  background-color: rgb(247, 247, 247);
+
+}
+
+.dashboard-btn:hover {
+  background-color: #4a4949;
+  /* Change to desired hover color */
+}
+.create-room-btn{
+  background-color: rgb(247, 247, 247);
+}
+.create-room-btn:hover {
+  background-color: #4a4949;
+  /* Change to desired hover color */
+}
+
+
+
+.horizontal-list {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  align-items: center;
+}
+
+.horizontal-list li {
+  margin-right: 10px;
+  /* Adjust spacing between items */
+}
+.join_con{
+  color: white;
+  font-size: 20px;
+}
+
+.select-new-avatar{
+  color: black;
+}
